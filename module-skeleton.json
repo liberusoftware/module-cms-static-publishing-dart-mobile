@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-static-publishing-dart-mobile",
+  "capabilityKey": "liberusoftware/module-cms-static-publishing",
+  "presentation": "dart-mobile",
+  "package": "module_cms_static_publishing_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/static-publishing.md",
+  "presentationPlan": "projects/cms/features/static-publishing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
